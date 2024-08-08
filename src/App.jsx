@@ -1,7 +1,10 @@
 import './App.css'
+//Componentes importados
 import NavbarApp from './components/Navbar';
-import Home from './components/Home';
 import Footer from './components/Footer';
+
+// Vistas importadas
+import Home from './views/Home';
 
 function App() {
 
