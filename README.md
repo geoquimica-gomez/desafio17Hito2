@@ -4,7 +4,7 @@
 
 ## Despliegue
 
-Puedes ver la aplicación en funcionamiento [aquí](https://geoquimica-gomez.github.io/desafio17Hito1A/).
+Puedes ver la aplicación en funcionamiento [aquí](https://geoquimica-gomez.github.io/desafio17Hito2/).
 
 ## Tecnologías utilizadas
 
