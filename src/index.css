@@ -35,22 +35,31 @@ body {
   animation: spin 5s linear infinite;
 }
 
+.btn1 {
+  text-decoration: none;
+  width: 6rem;
+  margin: 0 3px;
+  color: #521b0b;
+  padding: 4px;
+}
+
 .btn1:hover {
-  border: 1px solid #521b0b !important;
-  color: #521b0b !important;
+  border: 1px solid #521b0b;
   background-color: rgba(237, 193, 48, 0.521);
   border-radius: 5px;
-  font-size: 1.1rem;
 }
 
 .btn2 {
-  border: 3px solid rgba(237, 193, 48, 0.521) !important;
-  color: white !important;
+  text-decoration: none;
+  border: 3px solid rgba(237, 193, 48, 0.521);
+  color: white;
   border-radius: 5px;
+  height: 3rem;
+  padding: 6px;
 }
 
 .btn2:hover {
-  border: 5px solid rgba(249, 203, 50, 0.571) !important;
+  border: 5px solid rgba(249, 203, 50, 0.571);
   background-color: rgba(234, 220, 18, 0.619);
   font-size: 1.1rem;
 }
