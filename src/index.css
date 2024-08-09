@@ -64,6 +64,17 @@ body {
   font-size: 1.1rem;
 }
 
+.btn3 {
+  border: 2px solid rgba(249, 203, 50, 0.571) !important;
+  background-color: #fc4b1ad0 !important;
+  color: white;
+}
+
+.btn3:hover {
+  border: 2px solid #fc4b1afa!important;
+  background-color: #a03b1fd8 !important;
+}
+
 /* Css para el footer */
 
 .custom-footer {
@@ -124,4 +135,16 @@ ul {
 .btnSeeMore:hover::before,
 .btnAddPizza:hover::before {
   left: 0;
+}
+
+/* Css para LoginPage */
+
+h1{
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h6 {
+  text-align: center;
+  color: #60200ed2 !important;
 }

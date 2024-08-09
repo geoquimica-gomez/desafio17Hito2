@@ -1,5 +1,6 @@
 import './App.css'
 import { Routes, Route } from 'react-router-dom';
+import 'react-toastify/dist/ReactToastify.css';
 //Componentes importados
 import NavbarApp from './components/Navbar';
 import Footer from './components/Footer';
