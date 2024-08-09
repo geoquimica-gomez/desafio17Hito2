@@ -4,7 +4,7 @@
 
 ## Despliegue
 
-Puedes ver la aplicación en funcionamiento [aquí](https://geoquimica-gomez.github.io/desafio17Hito2/).
+Puedes ver la aplicación en funcionamiento [aquí](https://desafio17-hito2.vercel.app/).
 
 ## Tecnologías utilizadas
 
@@ -19,7 +19,7 @@ Puedes ver la aplicación en funcionamiento [aquí](https://geoquimica-gomez.git
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/geoquimica-gomez/desafio17Hito1A.git
+    git clone https://github.com/geoquimica-gomez/desafio17Hito2.git
     ```
 
 2. Navega al directorio del proyecto:
